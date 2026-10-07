@@ -1,6 +1,3 @@
-<img width="2122" height="219" alt="{02E2F873-BE45-4BF7-8BDA-C0BA88AF8449}" src="https://github.com/user-attachments/assets/59f38110-58c5-4cd5-8ecf-2b8f14b3d96e" /># Мартелов Елисей Группа ИТС1 Лабораторная №1
-
-
 ## Задание №1
 
 
